@@ -6,9 +6,8 @@ Collection of open-source paper wallet generators for various cryptocurrencies.
 http://CyptoWallets.org/
 
 Donate: 19M6Z8e8NwLJMs4qkh7FzUoUV1wZF1rLij
-
-This project is powered by bitaddress.org source code: https://github.com/pointbiz/bitaddress.org
 ==========================================
+This project is powered by bitaddress.org source code: https://github.com/pointbiz/bitaddress.org
 
 bitaddress.org
 JavaScript Client-Side Bitcoin Wallet Generator
