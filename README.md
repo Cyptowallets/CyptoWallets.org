@@ -4,7 +4,7 @@ CyptoWallets.org
 A collection of open-source paper wallet generators for various cryptocurrencies 
 featuring high resolution artwork.
 
-http://CyptoWallets.org/
+http://CryptoWallets.org/
 
 Donate: 19M6Z8e8NwLJMs4qkh7FzUoUV1wZF1rLij
 ==========================================
