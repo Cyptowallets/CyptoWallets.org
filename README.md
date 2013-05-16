@@ -1,4 +1,4 @@
-CyptoWallets.org
+CryptoWallets.org
 ================
 
 A collection of open-source paper wallet generators for various cryptocurrencies 
